@@ -1,9 +1,9 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true"  CodeFile="Default.aspx.vb" Inherits="_Default" %>
 
-<%@ Register assembly="DevExpress.Web.ASPxPivotGrid.v17.2, Version=17.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" 
+<%@ Register assembly="DevExpress.Web.ASPxPivotGrid.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" 
 namespace="DevExpress.Web.ASPxPivotGrid" tagprefix="dxwpg" %>
 
-<%@ Register assembly="DevExpress.Web.v17.2, Version=17.2.1.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" 
+<%@ Register assembly="DevExpress.Web.v13.1, Version=13.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" 
 namespace="DevExpress.Web" tagprefix="dx" %>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
